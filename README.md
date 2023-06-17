@@ -8,7 +8,7 @@
 
 <br><br>
 <p align="center"> 
-    <a href="https://fernandoaugustodev.github.io/calculadoraIMC/" target="_blank" >Veja o Projeto</a>
+    <a href="https://fernandoaugustodev.github.io/Explore-sem-limites/" target="_blank" >Veja o Projeto</a>
 </p>
 <hr>
 
